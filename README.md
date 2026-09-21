@@ -16,6 +16,9 @@ The central learning loop is:
 
 **Learn -> Build -> Break -> Debug -> Explain -> Interview**
 
+For the complete simulator, interview-platform, architecture, and delivery
+backlog, see [IMPROVEMENTS.md](IMPROVEMENTS.md).
+
 ## Current prototype
 
 Implemented in `html.html`:
